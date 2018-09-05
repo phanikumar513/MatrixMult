@@ -6,7 +6,7 @@ public class MatrixMul {
 		// TODO Auto-generated method stub
 		Scanner obj=new Scanner(System.in);
 		int r1,r2,c1,c2,i,j,k;
-		System.out.println("Enter the no of rows in 1st matrix :");
+		System.out.println(" the no of rows in 1st matrix :");
 		r1=obj.nextInt();
 		System.out.println("Enter the no of columns in 1st matrix :");
 		r2=obj.nextInt();
